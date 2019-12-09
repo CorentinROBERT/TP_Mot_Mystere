@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1575890977 source:c:\users\coco\desktop\programmec++\tp_mot_mystere\fonctions.cpp
+	"fonctions.h"
+
+1575889486 c:\users\coco\desktop\programmec++\tp_mot_mystere\fonctions.h
+	<iostream>
+	<algorithm>
+	<chrono>
+	<random>
+	<vector>
+	<fstream>
+
+1575891224 source:c:\users\coco\desktop\programmec++\tp_mot_mystere\main.cpp
+	<iostream>
+	"fonctions.h"
+
